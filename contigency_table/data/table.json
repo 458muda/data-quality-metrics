@@ -1,0 +1,170 @@
+{
+    "Stable Presence_Stable Presence": [
+        90,
+        82,
+        81,
+        77,
+        105
+    ],
+    "Stable Presence_Gain": [
+        16,
+        9,
+        14,
+        46,
+        33
+    ],
+    "Stable Presence_Loss": [
+        1,
+        18,
+        39,
+        21,
+        27
+    ],
+    "Stable Presence_Stable Absence": [
+        289,
+        213,
+        237,
+        222,
+        238
+    ],
+    "Gain_Stable Presence": [
+        4,
+        10,
+        16,
+        7,
+        12
+    ],
+    "Gain_Gain": [
+        1,
+        29,
+        6,
+        13,
+        25
+    ],
+    "Gain_Loss": [
+        0,
+        3,
+        6,
+        0,
+        3
+    ],
+    "Gain_Stable Absence": [
+        8,
+        48,
+        68,
+        70,
+        104
+    ],
+    "Loss_Stable Presence": [
+        8,
+        7,
+        2,
+        8,
+        5
+    ],
+    "Loss_Gain": [
+        6,
+        3,
+        1,
+        5,
+        5
+    ],
+    "Loss_Loss": [
+        19,
+        4,
+        8,
+        11,
+        6
+    ],
+    "Loss_Stable Absence": [
+        132,
+        73,
+        30,
+        77,
+        37
+    ],
+    "Stable Absence_Stable Presence": [
+        7,
+        14,
+        12,
+        7,
+        3
+    ],
+    "Stable Absence_Gain": [
+        22,
+        20,
+        7,
+        3,
+        13
+    ],
+    "Stable Absence_Loss": [
+        6,
+        16,
+        10,
+        8,
+        5
+    ],
+    "Stable Absence_Stable Absence": [
+        389,
+        449,
+        461,
+        423,
+        377
+    ],
+    "Gain_Commission": [
+        12,
+        61,
+        90,
+        77,
+        119
+    ],
+    "Stable Presence_Commission": [
+        306,
+        240,
+        290,
+        289,
+        298
+    ],
+    "Loss_Commission": [
+        146,
+        83,
+        33,
+        90,
+        47
+    ],
+    "Stable Absence_Commission": [
+        35,
+        50,
+        29,
+        18,
+        21
+    ],
+    "Stable Presence_Omission": [
+        19,
+        31,
+        30,
+        22,
+        20
+    ],
+    "Gain_Omission": [
+        44,
+        32,
+        22,
+        54,
+        51
+    ],
+    "Loss_Omission": [
+        7,
+        37,
+        55,
+        29,
+        35
+    ],
+    "Stable Absence_Omission": [
+        429,
+        334,
+        335,
+        369,
+        379
+    ]
+}
