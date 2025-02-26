@@ -9,8 +9,6 @@ The table is then converted from sample data to entire spatial extent using the 
 
 The result is then used to generate novel graphs highlighting the relevant change classes, providing unbiased, useful and meaningful conclusion for data quality during land change assessment across multiple time intervals.
 
-
-
 # References
 
 [1] Pontius, Robert Gilmore, "Metrics That Make a Difference: How to Analyze Change and Error" (2022)
